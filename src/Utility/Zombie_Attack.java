@@ -4,6 +4,7 @@ public class Zombie_Attack {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
             int[] inhabitants = new int[8];
+            //just addes for git stuff
             for(int i=0; i<inhabitants.length; i++) {
                 inhabitants[i] = input.nextInt();
             }
